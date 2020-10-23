@@ -4,13 +4,13 @@ A simple web application that displays pokemon data using the pokemon API
 
 ## Technologies
 
--HTML5
--CSS3
--JavaScript
--jQuery
--Google Fonts
--jQuery Modal
--Pokemon API
+- HTML5
+- CSS3
+- JavaScript
+- jQuery
+- Google Fonts
+- jQuery Modal
+- Pokemon API
 
 ## Screenshots
 
