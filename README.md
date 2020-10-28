@@ -17,7 +17,7 @@ A simple web application that displays pokemon data using the pokemon API
 ![wireframe](./imgs/wireframe.png)
 
 ## Getting Started
-[Click Here](https://dcameronnguyen.github.io/pokegallery/) to see the deployed app!
+[Click Here](https://pokemongallery.vercel.app/) to see the deployed app!
 
 ## Future Enhancements
 - The ability to favorite and save pokemon to local storage
